@@ -1,0 +1,9 @@
+PATH="/usr/local/bin:$PATH"
+
+PATH="/opt/homebrew/opt/coreutils/libexec/gnubin:$PATH"
+
+PATH="/opt/homebrew/opt/grep/libexec/gnubin:$PATH"
+
+PATH="/Users/ac/.composer/vendor/bin:$PATH"
+
+PATH="$PATH:/Users/ac/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
